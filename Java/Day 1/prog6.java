@@ -4,11 +4,9 @@ public class prog6 {
 
         // Datatype
         int a = 0;
-        System.out.println(Integer.MAX_VALUE + " " + Integer.MIN_VALUE);
+        System.out.println(Integer.MAX_VALUE + " " + Integer.MIN_VALUE + " " + Integer.SIZE);
         float b = 13.23f;
-        System.out.println(Float.MAX_VALUE + " " + Float.MIN_VALUE);
-
-        double c = 25.32;
+        System.out.println(Float.MAX_VALUE + " " + Float.MIN_VALUE + " " + Float.SIZE);
 
     }
 
