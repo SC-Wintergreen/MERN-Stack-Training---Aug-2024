@@ -14,6 +14,7 @@ public class calculator {
         System.out.println("For Multiplication : *");
         System.out.println("For Division : /");
         System.out.println("For Modulation : %");
+        System.out.println("For Exponentiation : ^");
 
         char op = sc.nextLine().charAt(0);
 
